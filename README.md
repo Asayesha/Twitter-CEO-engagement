@@ -15,7 +15,7 @@ Libraries used : tweepy, spacy, genism, nltk, textblob
 2.	Data pre-processing – Removed stop words, bigrams, lemmatization, word-frequency filters. 
 3.	Sentiment analysis - Classified CEOs based on sentiment scores of tweet – positive, neutral and negative.
 4.	LDA topic modeling on tweets to discover tweeting styles and topics tweeted about.
-5.	Used a number of CEO attributes like (age, compensation etc), twitter attributes (tweeting style, number of tweets, number of likes, sentiment score) and company attributes (company statistics, daily returns, volume of stock traded etc.) 
+5.	Regressed stock price on - number of CEO attributes like (age, compensation etc), twitter attributes (tweeting style, number of tweets, number of likes, sentiment score) and company attributes (company statistics, daily returns, volume of stock traded etc.) 
 6.	Engagement analysis using logistic regression to determine types of topics which increase engagement.
 
 ### Insights :
